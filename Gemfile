@@ -10,7 +10,7 @@ gem 'asciidoctor-pdf', '~> 1.5.0.beta.5'
 gem 'pygments.rb', '~> 1.1.2'
 
 group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
+  gem 'jekyll-algolia', '~> 1.6'
   gem 'jekyll-sitemap'
   gem 'jekyll-assets'
   # jekyll-assets depends on sprockets, which depends on rack, which has two

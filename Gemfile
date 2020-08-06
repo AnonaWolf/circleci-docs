@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.6.3'
 
-gem 'jekyll', "3.8.6"
+gem 'jekyll', "3.9.0"
 gem 'html-proofer'
 gem "rack", ">= 2.0.6"
 gem 'asciidoctor'
